@@ -1,0 +1,31 @@
+{
+  "name": "listmaker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/joi": "^16.1.8",
+    "aws-sdk": "^2.585.0",
+    "bluebird": "^3.7.2",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "helmet": "^3.21.2",
+    "joi": "^14.3.1",
+    "lodash": "^4.17.15",
+    "mongodb": "^3.3.5",
+    "morgan": "^1.9.1",
+    "serverless-http": "^2.3.0",
+    "serverless-secrets-plugin": "^0.1.0",
+    "uuid": "^3.3.3"
+  },
+  "devDependencies": {
+    "serverless-offline": "^5.12.1"
+  }
+}
