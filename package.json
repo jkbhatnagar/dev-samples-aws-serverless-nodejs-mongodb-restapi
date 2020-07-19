@@ -18,7 +18,7 @@
     "express": "^4.17.1",
     "helmet": "^3.21.2",
     "joi": "^14.3.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "mongodb": "^3.3.5",
     "morgan": "^1.9.1",
     "serverless-http": "^2.3.0",
